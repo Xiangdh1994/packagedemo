@@ -1,0 +1,13 @@
+/*.csproj
+/*.sln
+/*.userprefs
+/.vs
+/Temp
+/UnityPackageManager
+/ProjectSettings
+/Library
+/Assets/AudienceNetwork/Plugins/iOS/libs/FBAudienceNetwork.framework
+/Android
+/Assets/PolyADSDK
+/xproj
+/Assets/StreamingAssets
